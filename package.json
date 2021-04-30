@@ -1,0 +1,11 @@
+{
+  "name": "jikanhun",
+  "version": "1.0.0",
+  "description": "〇〇時間〇〇分 => 〇〇.〇〇hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kasai441",
+  "license": "ISC"
+}
