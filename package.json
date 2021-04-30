@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kasai441",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "jikanhun": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasai441/jikanhun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasai441/jikanhun/issues"
+  },
+  "homepage": "https://github.com/kasai441/jikanhun#readme"
 }
