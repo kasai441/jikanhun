@@ -1,6 +1,6 @@
 {
   "name": "jikanhun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "〇〇時間〇〇分 => 〇〇.〇〇hours",
   "main": "index.js",
   "scripts": {
